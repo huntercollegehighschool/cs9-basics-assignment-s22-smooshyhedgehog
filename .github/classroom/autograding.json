@@ -45,7 +45,7 @@
       "setup": "",
       "run": "python part5.py",
       "input": "Yugi\r\nMoto",
-      "output": ".*Hello.*Yugi.?Moto.*",
+      "output": ".*Hello.*Yugi.*Moto.*",
       "comparison": "regex",
       "timeout": 10,
       "points": null
